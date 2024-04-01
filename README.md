@@ -2,3 +2,8 @@
 <br>
 <br>
 <h2>Esse foi um projeto que e aprendi no <a href=¨https://Rodolfomori.com.br/Devclub¨>Devclub</a></h2>
+
+<h3>tecnologia que eu ultilizei</h3>
+<br>
+<p>html</p>
+<p>Css</p>
