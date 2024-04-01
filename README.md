@@ -10,3 +10,6 @@
 
 <img src=¨https://github.com/mio1julio/Easy-Shopping/blob/master/assets/para%20notboock%20e%20pc.png?raw=truec=¨/>
 <https://github.com/mio1julio/Easy-Shopping/blob/master/assets/para%20notboock%20e%20pc.png?raw=true>
+<br>
+<img src=¨https://github.com/mio1julio/Easy-Shopping/blob/master/assets/para%20celular.png?raw=true¨/>
+https://github.com/mio1julio/Easy-Shopping/blob/master/assets/para%20celular.png?raw=true
