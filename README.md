@@ -9,3 +9,4 @@
 <p>Css</p>
 
 <img src=¨https://github.com/mio1julio/Easy-Shopping/blob/master/assets/para%20notboock%20e%20pc.png?raw=truec=¨/>
+<https://github.com/mio1julio/Easy-Shopping/blob/master/assets/para%20notboock%20e%20pc.png?raw=true>
