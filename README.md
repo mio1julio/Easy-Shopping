@@ -13,3 +13,4 @@
 <br>
 <img src=¨https://github.com/mio1julio/Easy-Shopping/blob/master/assets/para%20celular.png?raw=true¨/>
 https://github.com/mio1julio/Easy-Shopping/blob/master/assets/para%20celular.png?raw=true
+<P></P>
